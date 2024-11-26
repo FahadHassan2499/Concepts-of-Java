@@ -1,2 +1,4 @@
 # Concepts-of-Java
-It has all the Java Concepts.
+It covers the below mentioned concepts:
+1. OOPS
+   
